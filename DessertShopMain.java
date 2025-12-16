@@ -1,5 +1,6 @@
 //TIP 要<b>运行</b>代码，请按 <shortcut actionId="Run"/> 或
 // 点击装订区域中的 <icon src="AllIcons.Actions.Execute"/> 图标。
+//这是一个甜品店的管理程序
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
